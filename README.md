@@ -87,7 +87,7 @@ A grocery delivery web application with customer, administrator and delivery par
 
 <div align="center">
 
-<a href="https://shopnest-india.vercel.app">
+<a href="https://shopnest-brown.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_ShopNest-2EA44F?style=for-the-badge" alt="ShopNest Live Demo"/>
 </a>
 <a href="https://github.com/samarthpandey158/groceryFolder">
@@ -100,16 +100,19 @@ A grocery delivery web application with customer, administrator and delivery par
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samarthpandey158&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpandey158&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=samarthpandey158&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=samarthpandey158&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpandey158&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </div>
 
 ---
