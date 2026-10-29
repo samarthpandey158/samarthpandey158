@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samarth Pandey
 
-### B.Tech CSE Student | Web Developer
+### B.Tech CSE (AI) Student | Web Developer
 
 **JavaScript · TypeScript · React.js · Next.js · Node.js**
 
@@ -14,22 +14,18 @@
 <a href="https://www.linkedin.com/in/samarth-pandey-884a8938a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/Samarth_Pandey_2006/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science and Engineering student focused on web development and practical software projects.
+I'm a B.Tech Computer Science and Engineering AI student focused on web development and practical software projects and AI.
 
 * 💻 Building web applications with JavaScript and TypeScript.
 * ⚛️ Working with React.js and Next.js.
 * ⚙️ Developing backend functionality with Node.js and Express.js.
-* 🗄️ Working with MongoDB and exploring PostgreSQL.
+* 🗄️ Working with MongoDB and PostgreSQL.
 * 🔌 Implementing API integrations, authentication and real-time features.
 * 🧩 Practicing Data Structures and Algorithms using C++.
 
@@ -121,7 +117,7 @@ A grocery delivery web application with customer, administrator and delivery par
 
 * Advancing my TypeScript and Next.js knowledge.
 * Strengthening backend development and database concepts.
-* Practicing problem-solving with C++ and DSA.
+* Problem-solving with C++ and DSA.
 * Building maintainable and user-friendly web applications.
 
 ---
@@ -134,9 +130,6 @@ A grocery delivery web application with customer, administrator and delivery par
   </a>
   <a href="https://www.linkedin.com/in/samarth-pandey-884a8938a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/Samarth_Pandey_2006/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
