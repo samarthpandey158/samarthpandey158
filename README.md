@@ -98,21 +98,12 @@ A grocery delivery web application with customer, administrator and delivery par
 
 ---
 
-## 📊 GitHub Statistics
-
-## 📊 GitHub Statistics
+📊 GitHub Activity
 
 <div align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=samarthpandey158&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpandey158&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+
+<a href="https://github.com/samarthpandey158"> <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/> </a> <a href="https://github.com/samarthpandey158?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-Explore_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/> </a> <a href="https://github.com/samarthpandey158?tab=stars"> <img src="https://img.shields.io/badge/Stars-My_Favorites-E3B341?style=for-the-badge&logo=github&logoColor=black" alt="Starred Repositories"/> </a>
+
 </div>
 
 ---
