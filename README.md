@@ -98,23 +98,22 @@ A grocery delivery web application with customer, administrator and delivery par
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samarthpandey158&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthpandey158&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=samarthpandey158&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=samarthpandey158&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<a href="https://github.com/samarthpandey158">
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<a href="https://github.com/samarthpandey158?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore_Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+<a href="https://github.com/samarthpandey158?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-My_Favorites-E3B341?style=for-the-badge&logo=github&logoColor=black" alt="Starred Repositories"/>
+</a>
 
 </div>
+
 
 ---
 
