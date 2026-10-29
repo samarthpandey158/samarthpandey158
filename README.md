@@ -6,9 +6,7 @@
 
 **JavaScript · TypeScript · React.js · Next.js · Node.js**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=samarthpandey158&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+
 
 <a href="https://github.com/samarthpandey158">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
