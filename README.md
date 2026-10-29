@@ -27,7 +27,7 @@ I'm a B.Tech Computer Science and Engineering AI student focused on web developm
 * ⚙️ Developing backend functionality with Node.js and Express.js.
 * 🗄️ Working with MongoDB and PostgreSQL.
 * 🔌 Implementing API integrations, authentication and real-time features.
-* 🧩 Practicing Data Structures and Algorithms using C++.
+* 🧩 Data Structures and Algorithms using C++.
 
 ---
 
